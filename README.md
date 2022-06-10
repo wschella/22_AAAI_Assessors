@@ -14,4 +14,4 @@ We have also observed that the baseline neural nets are now better calibrated by
 
 Because of these reasons, the plots generated here are of course different from the one in the paper, but we have included the original instance level results as well.
 
-In any case, the goal of the paper has never been to prove any sort of improvement in calibration with assessors, only that it was possible to build them and be comparable.
+In any case, the goal of the paper has never been to prove any sort of improvement in calibration with assessors, only that it was possible to build them and be comparable. In that regard, the experiment has been sufficient, but the plot is confusing, as the same information could be conveyed by two numbers.
