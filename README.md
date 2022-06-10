@@ -4,6 +4,8 @@ This repo provides a single Jupyter notebook for the experiment setup as reporte
 
 The experiment has been rewritten to provide single readable and linear flow without any abstraction for instructional and documentation purposes. No GPU is required to run, as the dataset and the models are very small.
 
+The results here should be reproducible, as we have made all computations deterministic, and provided fine-grained description of the dependencies through the `pyproject.toml` and corresponding `poetry.lock`.
+
 ## Disclaimer
 
 Statistical significance of results is abysmal. Dataset size is small, nor do we report across repetitions. Any difference in performance in predictive power between the assessor and the task system is subject to high variance, and can be no indication of any superiority of the assessor models calibration (quite the opposite).
